@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>screenshotselection</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,23 L23,23 L23,0.001 L0,0.001 L0,23 L0,23 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="screenshotselection" sketch:type="MSLayerGroup">
+            <g id="Group-9">
+                <g id="Group-4">
+                    <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M11,11 L12,11 L12,0 L11,0 L11,11 Z" id="Fill-1" opacity="0.85" fill="#231F1F" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M11,23 L12,23 L12,12 L11,12 L11,23 Z" id="Fill-3" opacity="0.85" fill="#231F1F" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-8" transform="translate(0.000000, 11.000000)" fill="#231F1F" opacity="0.85" sketch:type="MSShapeGroup">
+                    <path d="M0,1 L11.002,1 L11.002,0 L0,0 L0,1 Z" id="Fill-5"></path>
+                    <path d="M12,1 L23,1 L23,0 L12,0 L12,1 Z" id="Fill-7"></path>
+                </g>
+            </g>
+            <path d="M17,11.5 C17,14.537 14.537,17 11.5,17 C8.462,17 6,14.537 6,11.5 C6,8.462 8.462,6 11.5,6 C14.537,6 17,8.462 17,11.5" id="Fill-10" opacity="0.15" fill="#231F1F" sketch:type="MSShapeGroup"></path>
+            <path d="M17,11.5 C17,14.537 14.537,17 11.5,17 C8.462,17 6,14.537 6,11.5 C6,8.462 8.462,6 11.5,6 C14.537,6 17,8.462 17,11.5 L17,11.5 Z" id="Stroke-12" stroke="#231F1F" opacity="0.3" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

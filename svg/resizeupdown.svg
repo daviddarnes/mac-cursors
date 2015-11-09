@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>resizeupdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="resizeupdown" sketch:type="MSLayerGroup">
+            <path d="M7.9883,0 L2.5273,5.962 L6.0053,5.962 L6.0053,7 L0.0003,7 L0.0003,7.019 L0.0003,10.961 L0.0003,10.981 L6.0053,10.981 L6.0053,12.039 L2.5393,12.039 L8.0113,18 L13.4733,12.039 L9.9953,12.039 L9.9953,10.981 L16.0003,10.981 L16.0003,7 L9.9943,7 L9.9943,5.962 L13.4613,5.962 L7.9883,0 Z" id="Fill-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M14.9609,8.0195 L8.9799,8.0195 L8.9799,4.9805 L11.2399,4.9805 L7.9889,1.6615 L4.7659,4.9805 L7.0199,4.9805 L7.0199,8.0195 L1.0399,8.0195 L1.0199,8.0195 L1.0199,9.9805 L1.0399,9.9805 L7.0399,9.9805 L7.0399,13.0195 L4.7599,13.0195 L8.0109,16.3395 L11.2339,13.0195 L8.9809,13.0195 L8.9809,9.9805 L14.9609,9.9805 L14.9809,9.9805 L14.9809,8.0195 L14.9609,8.0195 Z" id="Fill-2" fill="#000000" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

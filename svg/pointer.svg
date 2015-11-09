@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="19px" viewBox="0 0 12 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>pointer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="pointer" sketch:type="MSLayerGroup">
+            <path d="M0,16.4219 L0,0.4069 L11.591,12.0259 L4.81,12.0259 L4.399,12.1499 L0,16.4219 Z" id="Fill-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M9.0845,17.0962 L5.4795,18.6312 L0.7975,7.5422 L4.4835,5.9892 L9.0845,17.0962 Z" id="Fill-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M7.751,16.4155 L5.907,17.1895 L2.807,9.8155 L4.648,9.0405 L7.751,16.4155 Z" id="Fill-4" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M1,2.814 L1,14.002 L3.969,11.136 L4.397,10.997 L9.165,10.997 L1,2.814 Z" id="Fill-6" fill="#000000" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

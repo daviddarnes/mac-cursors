@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="32px" viewBox="0 0 19 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,9 C0,13.97 4.03,18 9,18 L9,18 C13.97,18 18,13.97 18,9 L18,9 C18,4.029 13.97,0 9,0 L9,0 C4.03,0 0,4.029 0,9"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#5BD230" offset="0%"></stop>
+            <stop stop-color="#068B03" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="copy" sketch:type="MSLayerGroup">
+            <g id="Group-3" transform="translate(1.000000, 14.000000)">
+                <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M0,9 C0,13.97 4.03,18 9,18 L9,18 C13.97,18 18,13.97 18,9 L18,9 C18,4.029 13.97,0 9,0 L9,0 C4.03,0 0,4.029 0,9" id="Fill-1" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Group-10" sketch:type="MSShapeGroup">
+                <path d="M0,16.4219 L0,0.4069 L11.591,12.0259 L4.55,12.0259 L4.399,12.1499 L0,16.4219 Z" id="Fill-4" fill="#FFFFFF"></path>
+                <path d="M14,22 L11,22 L11,19 C11,18.448 10.552,18 10,18 C9.448,18 9,18.448 9,19 L9,22 L6,22 C5.448,22 5,22.448 5,23 C5,23.552 5.448,24 6,24 L9,24 L9,27 C9,27.552 9.448,28 10,28 C10.552,28 11,27.552 11,27 L11,24 L14,24 C14.552,24 15,23.552 15,23 C15,22.448 14.552,22 14,22" id="Fill-6" fill="#FFFFFF"></path>
+                <path d="M1,2.814 L1,14.002 L3.969,11.136 L4.129,10.997 L9.165,10.997 L1,2.814 Z" id="Fill-8" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>resizeup</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="resizeup" sketch:type="MSLayerGroup" transform="translate(0.000000, -1.000000)">
+            <path d="M2.5273,6.9614 L6.0053,6.9614 L6.0053,8.0194 L0.0003,8.0194 L0.0003,12.0004 L16.0003,12.0004 L16.0003,8.0194 L9.9943,8.0194 L9.9943,6.9614 L13.4613,6.9614 L7.9883,0.9994 L2.5273,6.9614 Z" id="Fill-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M15,9.0195 L9,9.0195 L9,5.9805 L11.24,5.9805 L7.989,2.6605 L4.766,5.9805 L7.02,5.9805 L7.02,9.0195 L1.02,9.0195 L1.02,10.9805 L15,10.9805 L15,9.0195 Z" id="Fill-2" fill="#000000" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
