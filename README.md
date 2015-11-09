@@ -1,6 +1,6 @@
 # Mac Cursors
 
-Well @daleanthony showed me how to get them after @mikeyclarke showed him
+All the cursor icons in SVG format, stripped straight out of OS X. There's a Sketch file for editing as well.
 
 License
 -------
