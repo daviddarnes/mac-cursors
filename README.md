@@ -2,7 +2,7 @@
 
 All cursor icons from OS X, in SVG format. Plus a Sketch file for editing.
 
-Thanks to @daleanthony and @mikeyclarke for showing me how to get these.
+Thanks to [@daleanthony](https://github.com/daleanthony) and [@mikeyclarke](https://github.com/mikeyclarke) for showing me how to get these.
 
 License
 -------
