@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>resizenorthwestsoutheast</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="resizenorthwestsoutheast">
-            <path d="M4.2568,7.0869 L8.3288,11.1549 L5.4998,13.9829 L13.9728,13.9699 L13.9858,5.4999 L11.1448,8.3419 L7.0698,4.2739 L5.6558,2.8589 L8.4998,0.0169 L0.0138,0.0169 L0.0138,8.5009 L2.8428,5.6739 L4.2568,7.0869 Z" id="Fill-1" fill="#FFFFFF"></path>
-            <path d="M5.3174,6.7334 L9.7444,11.1574 L7.9164,12.9854 L12.9724,12.9694 L12.9864,7.9154 L11.1444,9.7564 L6.7164,5.3344 L4.2424,2.8594 L6.0864,1.0164 L1.0134,1.0164 L1.0134,6.0874 L2.8434,4.2594 L5.3174,6.7334 Z" id="Fill-2" fill="#000000"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="resizenorthwestsoutheast" sketch:type="MSLayerGroup">
+            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
+            </g>
+            <path d="M14.2568,17.0869 L18.3288,21.1549 L15.4998,23.9829 L23.9728,23.9699 L23.9858,15.4999 L21.1448,18.3419 L17.0698,14.2739 L15.6558,12.8589 L18.4998,10.0169 L10.0138,10.0169 L10.0138,18.5009 L12.8428,15.6739 L14.2568,17.0869 Z" id="resize" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M15.3174,16.7334 L19.7444,21.1574 L17.9164,22.9854 L22.9724,22.9694 L22.9864,17.9154 L21.1444,19.7564 L16.7164,15.3344 L14.2424,12.8594 L16.0864,11.0164 L11.0134,11.0164 L11.0134,16.0874 L12.8434,14.2594 L15.3174,16.7334 Z" id="resize" fill="#000000" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>
