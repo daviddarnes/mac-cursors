@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>zoomin</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="zoomin">
-            <path d="M11.5,6 C11.5,9.038 9.038,11.5 6,11.5 C2.962,11.5 0.5,9.038 0.5,6 C0.5,2.962 2.962,0.5 6,0.5 C9.038,0.5 11.5,2.962 11.5,6" id="Fill-1" fill="#FFFFFF"></path>
-            <path d="M11.5,6 C11.5,9.038 9.038,11.5 6,11.5 C2.962,11.5 0.5,9.038 0.5,6 C0.5,2.962 2.962,0.5 6,0.5 C9.038,0.5 11.5,2.962 11.5,6 L11.5,6 Z" id="Stroke-3" stroke="#000000"></path>
-            <path d="M9,5 L7,5 L7,3 L5,3 L5,5 L3,5 L3,6.98 L5,6.98 L5,9 L7,9 L7,6.98 L9,6.98 L9,5 Z" id="Fill-5" fill="#000000"></path>
-            <path d="M14.5859,16 L15.9999,14.586 L10.5509,9.137 L9.1369,10.551 L14.5859,16 Z" id="Fill-7" fill="#000000"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="zoomin" sketch:type="MSLayerGroup">
+            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
+            </g>
+            <path d="M20.5,15 C20.5,18.038 18.038,20.5 15,20.5 C11.962,20.5 9.5,18.038 9.5,15 C9.5,11.962 11.962,9.5 15,9.5 C18.038,9.5 20.5,11.962 20.5,15" id="glass" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M20.5,15 C20.5,18.038 18.038,20.5 15,20.5 C11.962,20.5 9.5,18.038 9.5,15 C9.5,11.962 11.962,9.5 15,9.5 C18.038,9.5 20.5,11.962 20.5,15 L20.5,15 Z" id="glass-border" stroke="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M18,14 L16,14 L16,12 L14,12 L14,14 L12,14 L12,15.98 L14,15.98 L14,18 L16,18 L16,15.98 L18,15.98 L18,14 Z" id="plus" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M23.5859,25 L24.9999,23.586 L19.5509,18.137 L18.1369,19.551 L23.5859,25 Z" id="stem" fill="#000000" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

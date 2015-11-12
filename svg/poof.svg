@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="19px" height="32px" viewBox="0 0 19 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>poof</title>
+    <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
             <stop stop-color="#F0F0F0" offset="0%"></stop>
             <stop stop-color="#D5D5D5" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="poof">
-            <g id="Group-10">
-                <path d="M1,23 C1,27.97 5.03,32 10,32 L10,32 C14.97,32 19,27.97 19,23 L19,23 C19,18.029 14.97,14 10,14 L10,14 C5.03,14 1,18.029 1,23" id="Fill-6" fill="url(#linearGradient-1)"></path>
-                <path d="M0,16.4219 L0,0.4069 L11.591,12.0259 L4.55,12.0259 L4.399,12.1499 L0,16.4219 Z" id="Fill-4" fill="#FFFFFF"></path>
-                <path d="M11.4142,23 L13.5352,20.879 C13.9262,20.488 13.9262,19.855 13.5352,19.464 C13.1452,19.074 12.5122,19.074 12.1212,19.464 L10.0002,21.586 L7.8782,19.464 C7.4882,19.074 6.8552,19.074 6.4642,19.464 C6.0742,19.855 6.0742,20.488 6.4642,20.879 L8.5862,23 L6.4642,25.121 C6.0742,25.512 6.0742,26.145 6.4642,26.536 C6.8552,26.926 7.4882,26.926 7.8782,26.536 L10.0002,24.414 L12.1212,26.536 C12.5122,26.926 13.1452,26.926 13.5352,26.536 C13.9262,26.145 13.9262,25.512 13.5352,25.121 L11.4142,23 Z" id="Fill-6" fill="#5A5A5A"></path>
-                <path d="M1,2.814 L1,14.002 L3.969,11.136 L4.129,10.997 L9.165,10.997 L1,2.814 Z" id="Fill-8" fill="#000000"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="poof" sketch:type="MSLayerGroup">
+            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
+            <path d="M9,24 C9,28.97 13.03,33 18,33 L18,33 C22.97,33 27,28.97 27,24 L27,24 C27,19.029 22.97,15 18,15 L18,15 C13.03,15 9,19.029 9,24" id="circle" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M8,17.4219 L8,1.4069 L19.591,13.0259 L12.55,13.0259 L12.399,13.1499 L8,17.4219 Z" id="point-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M19.4142,24 L21.5352,21.879 C21.9262,21.488 21.9262,20.855 21.5352,20.464 C21.1452,20.074 20.5122,20.074 20.1212,20.464 L18.0002,22.586 L15.8782,20.464 C15.4882,20.074 14.8552,20.074 14.4642,20.464 C14.0742,20.855 14.0742,21.488 14.4642,21.879 L16.5862,24 L14.4642,26.121 C14.0742,26.512 14.0742,27.145 14.4642,27.536 C14.8552,27.926 15.4882,27.926 15.8782,27.536 L18.0002,25.414 L20.1212,27.536 C20.5122,27.926 21.1452,27.926 21.5352,27.536 C21.9262,27.145 21.9262,26.512 21.5352,26.121 L19.4142,24 Z" id="cross" fill="#5A5A5A" sketch:type="MSShapeGroup"></path>
+            <path d="M9,3.814 L9,15.002 L11.969,12.136 L12.129,11.997 L17.165,11.997 L9,3.814 Z" id="point" fill="#000000" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

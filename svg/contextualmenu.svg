@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>contextualmenu</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="contextualmenu">
-            <path d="M8,17.4697 L8,17.9997 L17,17.9997 L17,7.9997 L8,7.9997 L8,8.4267 L8,17.4697 Z" id="Fill-1" fill="#FFFFFF"></path>
-            <path d="M0,16.4219 L0,0.4069 L11.591,12.0259 L4.81,12.0259 L4.399,12.1499 L0,16.4219 Z" id="Fill-2" fill="#FFFFFF"></path>
-            <path d="M9.0845,17.0962 L5.4795,18.6312 L0.7975,7.5422 L4.4835,5.9892 L9.0845,17.0962 Z" id="Fill-3" fill="#FFFFFF"></path>
-            <path d="M7.751,16.4155 L5.907,17.1895 L2.807,9.8155 L4.648,9.0405 L7.751,16.4155 Z" id="Fill-4" fill="#000000"></path>
-            <path d="M15,12 L10,12 L10,11 L15,11 L15,12 Z M15,14 L10,14 L10,13 L15,13 L15,14 Z M15,16 L10,16 L10,15 L15,15 L15,16 Z M9,17 L16,17 L16,9 L9,9 L9,17 Z" id="Fill-5" fill="#000000"></path>
-            <path d="M1,2.814 L1,14.002 L3.969,11.136 L4.397,10.997 L9.165,10.997 L1,2.814 Z" id="Fill-6" fill="#000000"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="contextualmenu" sketch:type="MSLayerGroup">
+            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
+            </g>
+            <path d="M17,24.4697 L17,24.9997 L26,24.9997 L26,14.9997 L17,14.9997 L17,15.4267 L17,24.4697 Z" id="list-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M18.0845,24.0962 L14.4795,25.6312 L9.7975,14.5422 L13.4835,12.9892 L18.0845,24.0962 Z" id="stem-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M9,23.4219 L9,7.4069 L20.591,19.0259 L13.81,19.0259 L13.399,19.1499 L9,23.4219 Z" id="point-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M24,19 L19,19 L19,18 L24,18 L24,19 Z M24,21 L19,21 L19,20 L24,20 L24,21 Z M24,23 L19,23 L19,22 L24,22 L24,23 Z M18,24 L25,24 L25,16 L18,16 L18,24 Z" id="list" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M16.751,23.4155 L14.907,24.1895 L11.807,16.8155 L13.648,16.0405 L16.751,23.4155 Z" id="stem" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M10,9.814 L10,21.002 L12.969,18.136 L13.397,17.997 L18.165,17.997 L10,9.814 Z" id="point" fill="#000000" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>
