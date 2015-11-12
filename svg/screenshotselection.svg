@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>screenshotselection</title>
-    <desc>Created with Sketch.</desc>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="screenshotselection" sketch:type="MSLayerGroup">
-            <g id="Group-9" fill="#231F1F" opacity="0.85" sketch:type="MSShapeGroup">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="screenshotselection">
+            <g id="Group-9" fill="#231F1F" opacity="0.85">
                 <g id="Group-4" transform="translate(11.000000, 0.000000)">
                     <path d="M0,11 L1,11 L1,0 L0,0 L0,11 Z" id="Fill-1"></path>
                     <path d="M0,23 L1,23 L1,12 L0,12 L0,23 Z" id="Fill-3"></path>
@@ -16,8 +13,8 @@
                     <path d="M12,1 L23,1 L23,0 L12,0 L12,1 Z" id="Fill-7"></path>
                 </g>
             </g>
-            <path d="M17,11.5 C17,14.537 14.537,17 11.5,17 C8.462,17 6,14.537 6,11.5 C6,8.462 8.462,6 11.5,6 C14.537,6 17,8.462 17,11.5" id="Fill-10" opacity="0.15" fill="#231F1F" sketch:type="MSShapeGroup"></path>
-            <path d="M17,11.5 C17,14.537 14.537,17 11.5,17 C8.462,17 6,14.537 6,11.5 C6,8.462 8.462,6 11.5,6 C14.537,6 17,8.462 17,11.5 L17,11.5 Z" id="Stroke-12" stroke="#231F1F" opacity="0.3" sketch:type="MSShapeGroup"></path>
+            <path d="M17,11.5 C17,14.537 14.537,17 11.5,17 C8.462,17 6,14.537 6,11.5 C6,8.462 8.462,6 11.5,6 C14.537,6 17,8.462 17,11.5" id="Fill-10" opacity="0.15" fill="#231F1F"></path>
+            <path d="M17,11.5 C17,14.537 14.537,17 11.5,17 C8.462,17 6,14.537 6,11.5 C6,8.462 8.462,6 11.5,6 C14.537,6 17,8.462 17,11.5 L17,11.5 Z" id="Stroke-12" stroke="#231F1F" opacity="0.3"></path>
         </g>
     </g>
 </svg>
