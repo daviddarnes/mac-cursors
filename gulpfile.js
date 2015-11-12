@@ -1,22 +1,20 @@
 var gulp = require('gulp');
 var svgstore = require('gulp-svgstore');
 var svgmin = require('gulp-svgmin');
-var path = require('path');
+var inject = require('gulp-inject');
 
 gulp.task('svgstore', function () {
-    return gulp
+    var svgs = gulp
         .src('svg/*.svg')
-        .pipe(svgmin(function (file) {
-            var prefix = path.basename(file.relative, path.extname(file.relative));
-            return {
-                plugins: [{
-                    cleanupIDs: {
-                        prefix: prefix + '-',
-                        minify: true
-                    }
-                }]
-            }
-        }))
-        .pipe(svgstore())
+        .pipe(svgmin())
+        .pipe(svgstore({ inlineSvg: true }));
+
+    function fileContents (filePath, file) {
+        return file.contents.toString();
+    }
+
+    return gulp
+        .src('template/index.html')
+        .pipe(inject(svgs, { transform: fileContents }))
         .pipe(gulp.dest('./'));
 });

@@ -9,30 +9,36 @@
             <stop stop-color="#4AB4EF" offset="0%"></stop>
             <stop stop-color="#3582E5" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+        <path id="path-4" d="M0,0 L9,0 L9,9 L0,9 L0,0 Z"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
             <stop stop-color="#3481E4" offset="0%"></stop>
             <stop stop-color="#2051DB" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
             <stop stop-color="#6BDCFC" offset="0%"></stop>
             <stop stop-color="#4DC6FA" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
             <stop stop-color="#4BC5F9" offset="0%"></stop>
             <stop stop-color="#2FB0F8" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="busybutclickable" sketch:type="MSLayerGroup">
-            <g id="Group-36" transform="translate(1.000000, 14.000000)">
+            <g id="Fill-1-+-Fill-2" transform="translate(1.000000, 14.000000)">
                 <mask id="mask-2" sketch:name="Clip 32" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
                 <g id="Clip-32"></g>
-                <path d="M0,0 L9,0 L9,9 L0,9 L0,0 Z" id="Fill-31" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
-                <path d="M9,9 L18,9 L18,18 L9,18 L9,9 Z" id="Fill-33" fill="url(#linearGradient-4)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
-                <path d="M9,0 L18,0 L18,9 L9,9 L9,0 Z" id="Fill-34" fill="url(#linearGradient-5)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
-                <path d="M0,9 L9,9 L9,18 L0,18 L0,9 Z" id="Fill-35" fill="url(#linearGradient-6)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <g id="Fill-33-+-Fill-34-+-Fill-35-Mask" mask="url(#mask-2)">
+                    <mask id="mask-5" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                    <path d="M9,9 L18,9 L18,18 L9,18 L9,9 Z" id="Fill-33" fill="url(#linearGradient-6)" sketch:type="MSShapeGroup"></path>
+                    <path d="M9,0 L18,0 L18,9 L9,9 L9,0 Z" id="Fill-34" fill="url(#linearGradient-7)" sketch:type="MSShapeGroup"></path>
+                    <path d="M0,9 L9,9 L9,18 L0,18 L0,9 Z" id="Fill-35" fill="url(#linearGradient-8)" sketch:type="MSShapeGroup"></path>
+                </g>
             </g>
             <path d="M0,16.4219 L0,0.4069 L11.591,12.0259 L4.55,12.0259 L4.399,12.1499 L0,16.4219 Z" id="Fill-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
             <path d="M1,2.814 L1,14.002 L3.969,11.136 L4.129,10.997 L9.165,10.997 L1,2.814 Z" id="Fill-2" fill="#000000" sketch:type="MSShapeGroup"></path>

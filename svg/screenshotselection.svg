@@ -3,21 +3,15 @@
     <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
     <title>screenshotselection</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <path id="path-1" d="M0,23 L23,23 L23,0.001 L0,0.001 L0,23 L0,23 Z"></path>
-    </defs>
+    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="screenshotselection" sketch:type="MSLayerGroup">
-            <g id="Group-9">
-                <g id="Group-4">
-                    <mask id="mask-2" sketch:name="Clip 2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <g id="Clip-2"></g>
-                    <path d="M11,11 L12,11 L12,0 L11,0 L11,11 Z" id="Fill-1" opacity="0.85" fill="#231F1F" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
-                    <path d="M11,23 L12,23 L12,12 L11,12 L11,23 Z" id="Fill-3" opacity="0.85" fill="#231F1F" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            <g id="Group-9" fill="#231F1F" opacity="0.85" sketch:type="MSShapeGroup">
+                <g id="Group-4" transform="translate(11.000000, 0.000000)">
+                    <path d="M0,11 L1,11 L1,0 L0,0 L0,11 Z" id="Fill-1"></path>
+                    <path d="M0,23 L1,23 L1,12 L0,12 L0,23 Z" id="Fill-3"></path>
                 </g>
-                <g id="Group-8" transform="translate(0.000000, 11.000000)" fill="#231F1F" opacity="0.85" sketch:type="MSShapeGroup">
+                <g id="Group-8" transform="translate(0.000000, 11.000000)">
                     <path d="M0,1 L11.002,1 L11.002,0 L0,0 L0,1 Z" id="Fill-5"></path>
                     <path d="M12,1 L23,1 L23,0 L12,0 L12,1 Z" id="Fill-7"></path>
                 </g>
