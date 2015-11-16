@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>cell</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="cell" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cell">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M18.992,24 L15.012,24 L15.012,10 L18.992,10 L18.992,24 Z" id="line-vertical-border" fill="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M10,15.005 L23.985,15.005 L23.985,18.985 L10,18.985 L10,15.005 Z" id="line-horizontal-border" fill="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M17.969,23 L16,23 L16,11.014 L17.969,11.014 L17.969,23 Z" id="line-vertical" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M11.016,16.031 L22.983,16.031 L22.983,18 L11.016,18 L11.016,16.031 Z" id="line-horizontal" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M18.992,24 L15.012,24 L15.012,10 L18.992,10 L18.992,24 Z" id="line-vertical-border" fill="#000000"></path>
+            <path d="M10,15.005 L23.985,15.005 L23.985,18.985 L10,18.985 L10,15.005 Z" id="line-horizontal-border" fill="#000000"></path>
+            <path d="M17.969,23 L16,23 L16,11.014 L17.969,11.014 L17.969,23 Z" id="line-vertical" fill="#FFFFFF"></path>
+            <path d="M11.016,16.031 L22.983,16.031 L22.983,18 L11.016,18 L11.016,16.031 Z" id="line-horizontal" fill="#FFFFFF"></path>
         </g>
     </g>
 </svg>

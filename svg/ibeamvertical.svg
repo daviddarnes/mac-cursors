@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>ibeamvertical</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="ibeamvertical" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ibeamvertical">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M10.975,17.994 L22.968,17.994 L22.968,17.008 L10.975,17.008 L10.975,17.994 Z" id="stem" fill="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M16.976,18.996 L17.96,18.996 L17.96,16.01 L16.976,16.01 L16.976,18.996 Z" id="stem-dash" fill="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M11.7134,17.4941 C11.2134,17.3271 10.4434,16.7571 10.1884,16.3871 C9.9454,16.0371 9.7384,15.6771 9.6294,15.3331 C9.4944,14.9121 9.5354,14.0251 9.5354,14.0251" id="curve4" stroke="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M11.7153,17.5283 C11.1903,17.6813 10.3853,18.3123 10.1663,18.5933 C9.9063,18.9293 9.7383,19.3023 9.6293,19.6463 C9.4943,20.0683 9.5353,20.9553 9.5353,20.9553" id="curve3" stroke="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M22.2598,17.4941 C22.7598,17.3271 23.5288,16.7571 23.7828,16.3871 C24.0268,16.0371 24.2338,15.6771 24.3408,15.3331 C24.4768,14.9121 24.4358,14.0251 24.4358,14.0251" id="curve2" stroke="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M22.2559,17.5283 C22.7809,17.6813 23.5849,18.3123 23.8049,18.5933 C24.0659,18.9293 24.2339,19.3023 24.3419,19.6463 C24.4779,20.0683 24.4369,20.9553 24.4369,20.9553" id="curve1" stroke="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M10.975,17.994 L22.968,17.994 L22.968,17.008 L10.975,17.008 L10.975,17.994 Z" id="stem" fill="#000000"></path>
+            <path d="M16.976,18.996 L17.96,18.996 L17.96,16.01 L16.976,16.01 L16.976,18.996 Z" id="stem-dash" fill="#000000"></path>
+            <path d="M11.7134,17.4941 C11.2134,17.3271 10.4434,16.7571 10.1884,16.3871 C9.9454,16.0371 9.7384,15.6771 9.6294,15.3331 C9.4944,14.9121 9.5354,14.0251 9.5354,14.0251" id="curve4" stroke="#000000"></path>
+            <path d="M11.7153,17.5283 C11.1903,17.6813 10.3853,18.3123 10.1663,18.5933 C9.9063,18.9293 9.7383,19.3023 9.6293,19.6463 C9.4943,20.0683 9.5353,20.9553 9.5353,20.9553" id="curve3" stroke="#000000"></path>
+            <path d="M22.2598,17.4941 C22.7598,17.3271 23.5288,16.7571 23.7828,16.3871 C24.0268,16.0371 24.2338,15.6771 24.3408,15.3331 C24.4768,14.9121 24.4358,14.0251 24.4358,14.0251" id="curve2" stroke="#000000"></path>
+            <path d="M22.2559,17.5283 C22.7809,17.6813 23.5849,18.3123 23.8049,18.5933 C24.0659,18.9293 24.2339,19.3023 24.3419,19.6463 C24.4779,20.0683 24.4369,20.9553 24.4369,20.9553" id="curve1" stroke="#000000"></path>
         </g>
     </g>
 </svg>

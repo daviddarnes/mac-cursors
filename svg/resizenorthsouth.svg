@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>resizenorthsouth</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="resizenorthsouth" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resizenorthsouth">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M17,9 L11,14.98 L15,14.98 L15,17 L15,19 L11,19 L17,25 L23,19 L19,19 L19,17 L19,14.98 L23,14.98 L17,9 Z M17,10.414 L20.586,13.981 L18,13.981 L18,16.501 L18,20 L20.586,20 L17,23.586 L13.414,20 L16,20 L16,16.501 L16,13.981 L13.414,13.981 L17,10.414 Z" id="resize-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M18,16.5 L18,13.98 L20.586,13.98 L17,10.414 L13.414,13.98 L16,13.98 L16,16.5 L16,20 L13.414,20 L17,23.586 L20.586,20 L18,20 L18,16.5 Z" id="resize" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M17,9 L11,14.98 L15,14.98 L15,17 L15,19 L11,19 L17,25 L23,19 L19,19 L19,17 L19,14.98 L23,14.98 L17,9 Z M17,10.414 L20.586,13.981 L18,13.981 L18,16.501 L18,20 L20.586,20 L17,23.586 L13.414,20 L16,20 L16,16.501 L16,13.981 L13.414,13.981 L17,10.414 Z" id="resize-border" fill="#FFFFFF"></path>
+            <path d="M18,16.5 L18,13.98 L20.586,13.98 L17,10.414 L13.414,13.98 L16,13.98 L16,16.5 L16,20 L13.414,20 L17,23.586 L20.586,20 L18,20 L18,16.5 Z" id="resize" fill="#000000"></path>
         </g>
     </g>
 </svg>

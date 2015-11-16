@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>notallowed</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-notallowed">
             <stop stop-color="#F0F0F0" offset="0%"></stop>
             <stop stop-color="#D5D5D5" offset="100%"></stop>
         </linearGradient>
         <path d="M9,24 C9,28.97 13.03,33 18,33 L18,33 C22.97,33 27,28.97 27,24 L27,24 C27,19.029 22.97,15 18,15 L18,15 C13.03,15 9,19.029 9,24 L9,24 Z M13.826,18.39 C14.993,17.521 16.434,17 18,17 L18,17 C21.866,17 25,20.134 25,24 L25,24 C25,25.567 24.48,27.008 23.61,28.174 L23.61,28.174 L13.826,18.39 Z M11,24 C11,22.422 11.529,20.971 12.409,19.801 L12.409,19.801 L22.199,29.591 C21.028,30.472 19.577,31 18,31 L18,31 C14.134,31 11,27.866 11,24 L11,24 Z" id="path-2"></path>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="notallowed" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notallowed">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M18,30.5 C14.416,30.5 11.5,27.584 11.5,24 C11.5,22.78 11.837,21.609 12.48,20.579 L21.421,29.52 C20.391,30.163 19.22,30.5 18,30.5 L18,30.5 Z M14.607,18.463 C15.63,17.831 16.792,17.5 18,17.5 C21.584,17.5 24.5,20.416 24.5,24 C24.5,25.208 24.169,26.37 23.537,27.393 L14.607,18.463 Z M18,14.5 C12.762,14.5 8.5,18.762 8.5,24 C8.5,29.238 12.762,33.5 18,33.5 C23.238,33.5 27.5,29.238 27.5,24 C27.5,18.762 23.238,14.5 18,14.5 L18,14.5 Z" id="circle-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <mask id="mask-3" sketch:name="circle" fill="white">
+            <path d="M18,30.5 C14.416,30.5 11.5,27.584 11.5,24 C11.5,22.78 11.837,21.609 12.48,20.579 L21.421,29.52 C20.391,30.163 19.22,30.5 18,30.5 L18,30.5 Z M14.607,18.463 C15.63,17.831 16.792,17.5 18,17.5 C21.584,17.5 24.5,20.416 24.5,24 C24.5,25.208 24.169,26.37 23.537,27.393 L14.607,18.463 Z M18,14.5 C12.762,14.5 8.5,18.762 8.5,24 C8.5,29.238 12.762,33.5 18,33.5 C23.238,33.5 27.5,29.238 27.5,24 C27.5,18.762 23.238,14.5 18,14.5 L18,14.5 Z" id="notallowed-circle-border" fill="#FFFFFF"></path>
+            <mask id="mask-3" sketch:name="notallowed-circle" fill="white">
                 <use xlink:href="#path-2"></use>
             </mask>
-            <use id="circle" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
-            <path d="M8,17.4219 L8,1.4069 L19.591,13.0259 L12.55,13.0259 L12.399,13.1499 L8,17.4219 Z" id="point-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M9,3.814 L9,15.002 L11.969,12.136 L12.129,11.997 L17.165,11.997 L9,3.814 Z" id="point" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <use id="notallowed-circle" fill="url(#linearGradient-notallowed)" xlink:href="#path-2"></use>
+            <path d="M8,17.4219 L8,1.4069 L19.591,13.0259 L12.55,13.0259 L12.399,13.1499 L8,17.4219 Z" id="point-border" fill="#FFFFFF"></path>
+            <path d="M9,3.814 L9,15.002 L11.969,12.136 L12.129,11.997 L17.165,11.997 L9,3.814 Z" id="point" fill="#000000"></path>
         </g>
     </g>
 </svg>

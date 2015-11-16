@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>resizeup</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="resizeup" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resizeup">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M11.5273,16.9614 L15.0053,16.9614 L15.0053,18.0194 L9.0003,18.0194 L9.0003,22.0004 L25.0003,22.0004 L25.0003,18.0194 L18.9943,18.0194 L18.9943,16.9614 L22.4613,16.9614 L16.9883,10.9994 L11.5273,16.9614 Z" id="resize-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M24,19.0195 L18,19.0195 L18,15.9805 L20.24,15.9805 L16.989,12.6605 L13.766,15.9805 L16.02,15.9805 L16.02,19.0195 L10.02,19.0195 L10.02,20.9805 L24,20.9805 L24,19.0195 Z" id="resize" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M11.5273,16.9614 L15.0053,16.9614 L15.0053,18.0194 L9.0003,18.0194 L9.0003,22.0004 L25.0003,22.0004 L25.0003,18.0194 L18.9943,18.0194 L18.9943,16.9614 L22.4613,16.9614 L16.9883,10.9994 L11.5273,16.9614 Z" id="resize-border" fill="#FFFFFF"></path>
+            <path d="M24,19.0195 L18,19.0195 L18,15.9805 L20.24,15.9805 L16.989,12.6605 L13.766,15.9805 L16.02,15.9805 L16.02,19.0195 L10.02,19.0195 L10.02,20.9805 L24,20.9805 L24,19.0195 Z" id="resize" fill="#000000"></path>
         </g>
     </g>
 </svg>
