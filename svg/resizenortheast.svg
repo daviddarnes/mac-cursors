@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>resizenortheast</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="resizenortheast" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resizenortheast">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M22,20.4863 L22,12.0003 L13.515,12.0003 L16.344,14.8293 L11.394,19.7793 L14.222,22.6073 L19.172,17.6573 L22,20.4863 Z" id="arrow-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M12.8081,19.7793 L17.7581,14.8283 L15.9301,13.0003 L21.0011,13.0003 L21.0011,18.0713 L19.1721,16.2423 L14.2221,21.1933 L12.8081,19.7793 Z" id="arrow" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M22,20.4863 L22,12.0003 L13.515,12.0003 L16.344,14.8293 L11.394,19.7793 L14.222,22.6073 L19.172,17.6573 L22,20.4863 Z" id="arrow-border" fill="#FFFFFF"></path>
+            <path d="M12.8081,19.7793 L17.7581,14.8283 L15.9301,13.0003 L21.0011,13.0003 L21.0011,18.0713 L19.1721,16.2423 L14.2221,21.1933 L12.8081,19.7793 Z" id="arrow" fill="#000000"></path>
         </g>
     </g>
 </svg>

@@ -1,35 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>busybutclickable</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <path id="path-1" d="M9,25 C9,29.971 13.03,34 18,34 L18,34 C22.97,34 27,29.971 27,25 L27,25 C27,20.029 22.97,16 18,16 L18,16 C13.03,16 9,20.029 9,25 L9,25 Z"></path>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-slice3">
             <stop stop-color="#4AB4EF" offset="0%"></stop>
             <stop stop-color="#3582E5" offset="100%"></stop>
         </linearGradient>
         <path id="path-4" d="M0,0 L9,0 L9,9 L0,9 L0,0 Z"></path>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-slice6">
             <stop stop-color="#3481E4" offset="0%"></stop>
             <stop stop-color="#2051DB" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-slice7">
             <stop stop-color="#6BDCFC" offset="0%"></stop>
             <stop stop-color="#4DC6FA" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-slice8">
             <stop stop-color="#4BC5F9" offset="0%"></stop>
             <stop stop-color="#2FB0F8" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="busybutclickable" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="busybutclickable">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M8,18.4219 L8,2.4069 L19.591,14.0259 L12.55,14.0259 L12.399,14.1499 L8,18.4219 Z" id="point-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M9,4.814 L9,16.002 L11.969,13.136 L12.129,12.997 L17.165,12.997 L9,4.814 Z" id="point" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M8,18.4219 L8,2.4069 L19.591,14.0259 L12.55,14.0259 L12.399,14.1499 L8,18.4219 Z" id="point-border" fill="#FFFFFF"></path>
+            <path d="M9,4.814 L9,16.002 L11.969,13.136 L12.129,12.997 L17.165,12.997 L9,4.814 Z" id="point" fill="#000000"></path>
             <mask id="mask-2" sketch:name="mask" fill="white">
                 <use xlink:href="#path-1"></use>
             </mask>
@@ -39,10 +36,10 @@
                     <mask id="mask-5" sketch:name="slice1" fill="white">
                         <use xlink:href="#path-4"></use>
                     </mask>
-                    <use id="slice1" stroke="none" fill="url(#linearGradient-3)" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
-                    <path d="M9,9 L18,9 L18,18 L9,18 L9,9 Z" id="slice3" stroke="none" fill="url(#linearGradient-6)" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
-                    <path d="M9,0 L18,0 L18,9 L9,9 L9,0 Z" id="slice2" stroke="none" fill="url(#linearGradient-7)" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
-                    <path d="M0,9 L9,9 L9,18 L0,18 L0,9 Z" id="slice4" stroke="none" fill="url(#linearGradient-8)" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                    <use id="slice1" stroke="none" fill="url(#linearGradient-slice3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path d="M9,9 L18,9 L18,18 L9,18 L9,9 Z" id="slice3" stroke="none" fill="url(#linearGradient-slice6)" fill-rule="evenodd"></path>
+                    <path d="M9,0 L18,0 L18,9 L9,9 L9,0 Z" id="slice2" stroke="none" fill="url(#linearGradient-slice7)" fill-rule="evenodd"></path>
+                    <path d="M0,9 L9,9 L9,18 L0,18 L0,9 Z" id="slice4" stroke="none" fill="url(#linearGradient-slice8)" fill-rule="evenodd"></path>
                 </g>
             </g>
         </g>

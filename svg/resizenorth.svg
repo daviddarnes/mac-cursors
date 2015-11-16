@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>resizenorth</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="resizenorth" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resizenorth">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M23,16 L17,10 L11,16 L15,16 L15,23 L19,23 L19,16 L23,16 Z" id="arrow-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M16,22 L16,15 L13.414,15 L17,11.414 L20.586,15 L18,15 L18,22 L16,22 Z" id="arrow" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M23,16 L17,10 L11,16 L15,16 L15,23 L19,23 L19,16 L23,16 Z" id="arrow-border" fill="#FFFFFF"></path>
+            <path d="M16,22 L16,15 L13.414,15 L17,11.414 L20.586,15 L18,15 L18,22 L16,22 Z" id="arrow" fill="#000000"></path>
         </g>
     </g>
 </svg>

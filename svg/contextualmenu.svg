@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>contextualmenu</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="contextualmenu" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contextualmenu">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M17,24.4697 L17,24.9997 L26,24.9997 L26,14.9997 L17,14.9997 L17,15.4267 L17,24.4697 Z" id="list-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M18.0845,24.0962 L14.4795,25.6312 L9.7975,14.5422 L13.4835,12.9892 L18.0845,24.0962 Z" id="stem-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M9,23.4219 L9,7.4069 L20.591,19.0259 L13.81,19.0259 L13.399,19.1499 L9,23.4219 Z" id="point-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M24,19 L19,19 L19,18 L24,18 L24,19 Z M24,21 L19,21 L19,20 L24,20 L24,21 Z M24,23 L19,23 L19,22 L24,22 L24,23 Z M18,24 L25,24 L25,16 L18,16 L18,24 Z" id="list" fill="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M16.751,23.4155 L14.907,24.1895 L11.807,16.8155 L13.648,16.0405 L16.751,23.4155 Z" id="stem" fill="#000000" sketch:type="MSShapeGroup"></path>
-            <path d="M10,9.814 L10,21.002 L12.969,18.136 L13.397,17.997 L18.165,17.997 L10,9.814 Z" id="point" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M17,24.4697 L17,24.9997 L26,24.9997 L26,14.9997 L17,14.9997 L17,15.4267 L17,24.4697 Z" id="list-border" fill="#FFFFFF"></path>
+            <path d="M18.0845,24.0962 L14.4795,25.6312 L9.7975,14.5422 L13.4835,12.9892 L18.0845,24.0962 Z" id="stem-border" fill="#FFFFFF"></path>
+            <path d="M9,23.4219 L9,7.4069 L20.591,19.0259 L13.81,19.0259 L13.399,19.1499 L9,23.4219 Z" id="point-border" fill="#FFFFFF"></path>
+            <path d="M24,19 L19,19 L19,18 L24,18 L24,19 Z M24,21 L19,21 L19,20 L24,20 L24,21 Z M24,23 L19,23 L19,22 L24,22 L24,23 Z M18,24 L25,24 L25,16 L18,16 L18,24 Z" id="list" fill="#000000"></path>
+            <path d="M16.751,23.4155 L14.907,24.1895 L11.807,16.8155 L13.648,16.0405 L16.751,23.4155 Z" id="stem" fill="#000000"></path>
+            <path d="M10,9.814 L10,21.002 L12.969,18.136 L13.397,17.997 L18.165,17.997 L10,9.814 Z" id="point" fill="#000000"></path>
         </g>
     </g>
 </svg>

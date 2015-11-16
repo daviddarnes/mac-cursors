@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
-    <title>copy</title>
-    <desc>Created with Sketch.</desc>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-copy">
             <stop stop-color="#5BD230" offset="0%"></stop>
             <stop stop-color="#068B03" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="copy" sketch:type="MSLayerGroup">
-            <g id="bg-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" opacity="0.00999999978">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="copy">
+            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
-            <path d="M9,24 C9,28.97 13.03,33 18,33 L18,33 C22.97,33 27,28.97 27,24 L27,24 C27,19.029 22.97,15 18,15 L18,15 C13.03,15 9,19.029 9,24" id="circle" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M8,17.4219 L8,1.4069 L19.591,13.0259 L12.55,13.0259 L12.399,13.1499 L8,17.4219 Z" id="point-border" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M22,23 L19,23 L19,20 C19,19.448 18.552,19 18,19 C17.448,19 17,19.448 17,20 L17,23 L14,23 C13.448,23 13,23.448 13,24 C13,24.552 13.448,25 14,25 L17,25 L17,28 C17,28.552 17.448,29 18,29 C18.552,29 19,28.552 19,28 L19,25 L22,25 C22.552,25 23,24.552 23,24 C23,23.448 22.552,23 22,23" id="plus" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M9,3.814 L9,15.002 L11.969,12.136 L12.129,11.997 L17.165,11.997 L9,3.814 Z" id="point" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M9,24 C9,28.97 13.03,33 18,33 L18,33 C22.97,33 27,28.97 27,24 L27,24 C27,19.029 22.97,15 18,15 L18,15 C13.03,15 9,19.029 9,24" id="copy-circle" fill="url(#linearGradient-copy)"></path>
+            <path d="M8,17.4219 L8,1.4069 L19.591,13.0259 L12.55,13.0259 L12.399,13.1499 L8,17.4219 Z" id="point-border" fill="#FFFFFF"></path>
+            <path d="M22,23 L19,23 L19,20 C19,19.448 18.552,19 18,19 C17.448,19 17,19.448 17,20 L17,23 L14,23 C13.448,23 13,23.448 13,24 C13,24.552 13.448,25 14,25 L17,25 L17,28 C17,28.552 17.448,29 18,29 C18.552,29 19,28.552 19,28 L19,25 L22,25 C22.552,25 23,24.552 23,24 C23,23.448 22.552,23 22,23" id="plus" fill="#FFFFFF"></path>
+            <path d="M9,3.814 L9,15.002 L11.969,12.136 L12.129,11.997 L17.165,11.997 L9,3.814 Z" id="point" fill="#000000"></path>
         </g>
     </g>
 </svg>
