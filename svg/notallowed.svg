@@ -13,7 +13,7 @@
                 <rect id="bg" x="0" y="0" width="35" height="35"></rect>
             </g>
             <path d="M18,30.5 C14.416,30.5 11.5,27.584 11.5,24 C11.5,22.78 11.837,21.609 12.48,20.579 L21.421,29.52 C20.391,30.163 19.22,30.5 18,30.5 L18,30.5 Z M14.607,18.463 C15.63,17.831 16.792,17.5 18,17.5 C21.584,17.5 24.5,20.416 24.5,24 C24.5,25.208 24.169,26.37 23.537,27.393 L14.607,18.463 Z M18,14.5 C12.762,14.5 8.5,18.762 8.5,24 C8.5,29.238 12.762,33.5 18,33.5 C23.238,33.5 27.5,29.238 27.5,24 C27.5,18.762 23.238,14.5 18,14.5 L18,14.5 Z" id="notallowed-circle-border" fill="#FFFFFF"></path>
-            <mask id="mask-3" sketch:name="notallowed-circle" fill="white">
+            <mask id="mask-3" fill="white">
                 <use xlink:href="#path-2"></use>
             </mask>
             <use id="notallowed-circle" fill="url(#linearGradient-notallowed)" xlink:href="#path-2"></use>
