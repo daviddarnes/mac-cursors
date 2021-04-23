@@ -1,0 +1,151 @@
+<style>
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Remove all animations and transitions for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+   scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+
+/* Custom */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol";
+-webkit-font-smoothing: antialiased;
+  color: #fff;
+  background: #333 url('/background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: inherit;
+  font-weight: bold;
+}
+
+.icons {
+  display: grid;
+  grid-gap: 2rem;
+  list-style: none;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0;
+}
+
+@media (min-width: 800px) {
+  .icons {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.icon {
+  display: grid;
+  grid-template-columns: 1fr max-content;
+  background: rgba(0,0,0,0.6);
+  padding: .6rem 1rem;
+  border-radius: 2px;
+}
+
+.icon div {
+  filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.5));
+}
+
+.icon svg {
+  width: 35px;
+  height: 35px;
+}
+
+.icon p {
+  grid-column-end: span 2;
+}
+
+.icon a + a {
+  margin-left: .4rem;
+}
+
+#beachball svg {
+  animation: spin 0.5s infinite linear;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+</style>

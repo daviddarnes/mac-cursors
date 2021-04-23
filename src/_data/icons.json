@@ -1,0 +1,163 @@
+[
+  {
+    "id": "busybutclickable",
+    "cursor": "progress"
+  },
+  {
+    "id": "cell",
+    "cursor": "cell"
+  },
+  {
+    "id": "closedhand",
+    "cursor": "grabbing"
+  },
+  {
+    "id": "contextualmenu",
+    "cursor": "context-menu"
+  },
+  {
+    "id": "copy",
+    "cursor": "copy"
+  },
+  {
+    "id": "cross",
+    "cursor": "crosshair"
+  },
+  {
+    "id": "help",
+    "cursor": "help"
+  },
+  {
+    "id": "ibeam",
+    "cursor": "text"
+  },
+  {
+    "id": "ibeamstroke",
+    "cursor": "text"
+  },
+  {
+    "id": "ibeamvertical",
+    "cursor": "vertical-text"
+  },
+  {
+    "id": "makealias",
+    "cursor": "alias"
+  },
+  {
+    "id": "move",
+    "cursor": "all-scroll"
+  },
+  {
+    "id": "notallowed",
+    "cursor": "not-allowed"
+  },
+
+  {
+    "id": "openhand",
+    "cursor": "grab"
+  },
+  {
+    "id": "pointer",
+    "cursor": "default"
+  },
+  {
+    "id": "pointinghand",
+    "cursor": "pointer"
+  },
+  {
+    "id": "poof",
+    "cursor": "pointer"
+  },
+  {
+    "id": "resizedown",
+    "cursor": "pointer"
+  },
+  {
+    "id": "resizeeast",
+    "cursor": "e-resize"
+  },
+  {
+    "id": "resizeeastwest",
+    "cursor": "ew-resize"
+  },
+  {
+    "id": "resizeleft",
+    "cursor": "pointer"
+  },
+  {
+    "id": "resizeleftright",
+    "cursor": "col-resize"
+  },
+  {
+    "id": "resizenorth",
+    "cursor": "n-resize"
+  },
+  {
+    "id": "resizenortheast",
+    "cursor": "ne-resize"
+  },
+  {
+    "id": "resizenortheastsouthwest",
+    "cursor": "nesw-resize"
+  },
+  {
+    "id": "resizenorthsouth",
+    "cursor": "ns-resize"
+  },
+  {
+    "id": "resizenorthwest",
+    "cursor": "nw-resize"
+  },
+  {
+    "id": "resizenorthwestsoutheast",
+    "cursor": "nwsw-resize"
+  },
+  {
+    "id": "resizeright",
+    "cursor": "pointer"
+  },
+  {
+    "id": "resizesouth",
+    "cursor": "s-resize"
+  },
+  {
+    "id": "resizesoutheast",
+    "cursor": "se-resize"
+  },
+  {
+    "id": "resizesouthwest",
+    "cursor": "sw-resize"
+  },
+  {
+    "id": "resizeup",
+    "cursor": "pointer"
+  },
+  {
+    "id": "resizeupdown",
+    "cursor": "row-resize"
+  },
+  {
+    "id": "resizewest",
+    "cursor": "w-resize"
+  },
+  {
+    "id": "screenshotselection",
+    "cursor": "pointer"
+  },
+  {
+    "id": "screenshotwindow",
+    "cursor": "pointer"
+  },
+  {
+    "id": "zoomin",
+    "cursor": "zoom-in"
+  },
+  {
+    "id": "zoomout",
+    "cursor": "zoom-out"
+  },
+  {
+    "id": "beachball",
+    "cursor": "pointer"
+  }
+]

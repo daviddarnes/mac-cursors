@@ -1,0 +1,9 @@
+{% macro card(id) %}
+  <h3>{{ id }}</h3>
+  <div id="{{ id }}">{% include 'src/svg/' + id + '.svg' %}</div>
+  <p>Download: 
+    <a download href="/svg/{{ id }}.svg">SVG</a>
+    <a download href="/png/{{ id }}.png">PNG</a>
+    <a download href="/png/{{ id }}@2x.png">PNG @2x</a>
+  </p>
+{% endmacro %}

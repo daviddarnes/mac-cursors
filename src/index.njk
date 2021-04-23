@@ -1,0 +1,14 @@
+---
+layout: "layouts/default.njk"
+---
+{% from "partials/card.njk" import card %}
+
+<h1>{{ site.title }}</h1>
+
+<ul class="icons">
+  {% for icon in icons %}
+    <li class="icon" style="cursor: {{ icon.cursor }}">
+      {{ card(icon.id)}}
+    </li>
+  {% endfor %}
+</ul>

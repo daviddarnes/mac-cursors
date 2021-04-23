@@ -4,7 +4,7 @@
   "description": "All the cursor icons in SVG format, stripped straight out of OS X",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "eleventy --serve"
   },
   "repository": {
     "type": "git",
@@ -22,9 +22,6 @@
   },
   "homepage": "https://github.com/daviddarnes/mac-cursors#readme",
   "dependencies": {
-    "gulp": "^3.9.0",
-    "gulp-inject": "^3.0.0",
-    "gulp-svgmin": "^1.2.0",
-    "gulp-svgstore": "^5.0.5"
+    "@11ty/eleventy": "^0.12.1"
   }
 }
