@@ -4,7 +4,8 @@
   "description": "All the cursor icons in SVG format, stripped straight out of OS X",
   "main": "index.html",
   "scripts": {
-    "start": "eleventy --serve"
+    "start": "eleventy --serve",
+    "build": "eleventy"
   },
   "repository": {
     "type": "git",
