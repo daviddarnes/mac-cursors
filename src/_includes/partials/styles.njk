@@ -114,9 +114,16 @@ a {
 .icon {
   display: grid;
   grid-template-columns: 1fr max-content;
-  background: rgba(111, 111, 111, 0.5);
+  background: rgba(0, 0, 0, 0.2);
   padding: .6rem 1rem;
   border-radius: 2px;
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .icon {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  }
 }
 
 .icon div {
