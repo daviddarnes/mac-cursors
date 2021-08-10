@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="resizesouth">
-            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
-                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
-            </g>
-            <path d="M15.001,11.0005 L15,17.9995 L11,17.9995 L16.999,24.0005 L23,17.9995 L19,17.9995 L19,11.0005 L15.001,11.0005 Z" id="arrow-border" fill="#FFFFFF"></path>
-            <path d="M18,12 L18,19 L20.586,19 L17,22.586 L13.414,19 L16,19 L16.001,12 L18,12 Z" id="arrow" fill="#000000"></path>
-        </g>
-    </g>
-</svg>
+<svg height="35" viewBox="0 0 35 35" width="35" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="m15.001 11.0005-.001 6.999h-4l5.999 6.001 6.001-6.001h-4v-6.999z" fill="#fff"/><path d="m18 12v7h2.586l-3.586 3.586-3.586-3.586h2.586l.001-7z" fill="#000"/></g></svg>

@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="resizenorthwestsoutheast">
-            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
-                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
-            </g>
-            <path d="M14.2568,17.0869 L18.3288,21.1549 L15.4998,23.9829 L23.9728,23.9699 L23.9858,15.4999 L21.1448,18.3419 L17.0698,14.2739 L15.6558,12.8589 L18.4998,10.0169 L10.0138,10.0169 L10.0138,18.5009 L12.8428,15.6739 L14.2568,17.0869 Z" id="resize" fill="#FFFFFF"></path>
-            <path d="M15.3174,16.7334 L19.7444,21.1574 L17.9164,22.9854 L22.9724,22.9694 L22.9864,17.9154 L21.1444,19.7564 L16.7164,15.3344 L14.2424,12.8594 L16.0864,11.0164 L11.0134,11.0164 L11.0134,16.0874 L12.8434,14.2594 L15.3174,16.7334 Z" id="resize" fill="#000000"></path>
-        </g>
-    </g>
-</svg>
+<svg height="35" viewBox="0 0 35 35" width="35" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="m14.2568 17.0869 4.072 4.068-2.829 2.828 8.473-.013.013-8.47-2.841 2.842-4.075-4.068-1.414-1.415 2.844-2.842h-8.486v8.484l2.829-2.827z" fill="#fff"/><path d="m15.3174 16.7334 4.427 4.424-1.828 1.828 5.056-.016.014-5.054-1.842 1.841-4.428-4.422-2.474-2.475 1.844-1.843h-5.073v5.071l1.83-1.828z" fill="#000"/></g></svg>
