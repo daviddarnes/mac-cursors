@@ -1,15 +1,14 @@
 [
   {
-    "id": "busybutclickable",
+    "id": "beachball"
+  },
+  {
+    "id": "busy",
     "cursor": "progress"
   },
   {
     "id": "cell",
     "cursor": "cell"
-  },
-  {
-    "id": "closedhand",
-    "cursor": "grabbing"
   },
   {
     "id": "contextualmenu",
@@ -24,20 +23,24 @@
     "cursor": "crosshair"
   },
   {
+    "id": "default",
+    "cursor": "default"
+  },
+  {
+    "id": "handgrabbing",
+    "cursor": "grabbing"
+  },
+  {
+    "id": "handopen",
+    "cursor": "grab"
+  },
+  {
+    "id": "handpointing",
+    "cursor": "pointer"
+  },
+  {
     "id": "help",
     "cursor": "help"
-  },
-  {
-    "id": "ibeam",
-    "cursor": "text"
-  },
-  {
-    "id": "ibeamstroke",
-    "cursor": "text"
-  },
-  {
-    "id": "ibeamvertical",
-    "cursor": "vertical-text"
   },
   {
     "id": "makealias",
@@ -49,40 +52,20 @@
   },
   {
     "id": "notallowed",
-    "cursor": "not-allowed"
-  },
-
-  {
-    "id": "openhand",
-    "cursor": "grab"
+    "cursor": "no-drop"
   },
   {
-    "id": "pointer",
-    "cursor": "default"
+    "id": "poof"
   },
   {
-    "id": "pointinghand",
-    "cursor": "pointer"
-  },
-  {
-    "id": "poof",
-    "cursor": "pointer"
-  },
-  {
-    "id": "resizedown",
-    "cursor": "pointer"
+    "id": "resizedown"
   },
   {
     "id": "resizeeast",
     "cursor": "e-resize"
   },
   {
-    "id": "resizeeastwest",
-    "cursor": "ew-resize"
-  },
-  {
-    "id": "resizeleft",
-    "cursor": "pointer"
+    "id": "resizeleft"
   },
   {
     "id": "resizeleftright",
@@ -110,11 +93,10 @@
   },
   {
     "id": "resizenorthwestsoutheast",
-    "cursor": "nwsw-resize"
+    "cursor": "nwse-resize"
   },
   {
-    "id": "resizeright",
-    "cursor": "pointer"
+    "id": "resizeright"
   },
   {
     "id": "resizesouth",
@@ -129,8 +111,7 @@
     "cursor": "sw-resize"
   },
   {
-    "id": "resizeup",
-    "cursor": "pointer"
+    "id": "resizeup"
   },
   {
     "id": "resizeupdown",
@@ -141,12 +122,22 @@
     "cursor": "w-resize"
   },
   {
-    "id": "screenshotselection",
-    "cursor": "pointer"
+    "id": "resizewesteast",
+    "cursor": "ew-resize"
   },
   {
-    "id": "screenshotwindow",
-    "cursor": "pointer"
+    "id": "screenshotselection"
+  },
+  {
+    "id": "screenshotwindow"
+  },
+  {
+    "id": "textcursor",
+    "cursor": "text"
+  },
+  {
+    "id": "textcursorvertical",
+    "cursor": "vertical-text"
   },
   {
     "id": "zoomin",
@@ -155,9 +146,5 @@
   {
     "id": "zoomout",
     "cursor": "zoom-out"
-  },
-  {
-    "id": "beachball",
-    "cursor": "pointer"
   }
 ]

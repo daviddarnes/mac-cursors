@@ -1,9 +1,11 @@
-{% macro card(id) %}
-  <h3>{{ id }}</h3>
-  <div id="{{ id }}">{% include 'src/svg/' + id + '.svg' %}</div>
-  <p>Download: 
-    <a download href="/svg/{{ id }}.svg">SVG</a>
-    <a download href="/png/{{ id }}.png">PNG</a>
-    <a download href="/png/{{ id }}@2x.png">PNG @2x</a>
+{% macro card(icon) %}
+
+  <h3>{{ icon.id }}</h3>
+  <div id="{{ icon.id }}">{% include 'src/svg/' + icon.id + '.svg' %}</div>
+  {% if icon.cursor %}<p><code>cursor: {{ icon.cursor }}</code></p>{% endif %}
+  <p>Download:
+    <a download href="/svg/{{ icon.id }}.svg">SVG</a>
+    <a download href="/png/{{ icon.id }}.png">PNG</a>
+    <a download href="/png/{{ icon.id }}@2x.png">PNG @2x</a>
   </p>
 {% endmacro %}
