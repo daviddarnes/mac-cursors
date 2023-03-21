@@ -7,7 +7,7 @@ layout: "layouts/default.njk"
 
 <ul class="icons">
   {% for icon in icons %}
-    <li class="icon" style="cursor: {{ icon.cursor }}">
+    <li class="icon" {% if icon.cursor %} style="cursor: {{ icon.cursor }}"{% endif %}>
       {{ card(icon)}}
     </li>
   {% endfor %}
