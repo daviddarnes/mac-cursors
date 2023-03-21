@@ -2,7 +2,7 @@
 
   <h3>{{ icon.id }}</h3>
   <div id="{{ icon.id }}">{% include 'src/svg/' + icon.id + '.svg' %}</div>
-  {% if icon.cursor %}<p><code>cursor: {{ icon.cursor }}</code></p>{% endif %}
+  <p><code>cursor: {{ icon.cursor if icon.cursor else "unknown" }}</code></p>
   <p>Download:
     <a download href="/svg/{{ icon.id }}.svg">SVG</a>
     <a download href="/png/{{ icon.id }}.png">PNG</a>
